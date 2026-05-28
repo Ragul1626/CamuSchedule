@@ -141,5 +141,4 @@ Publish the website in the LocalHost.
 ## RESULT:
 A responsive and visually appealing CAMU Schedule web page using Bootstrap is designed successfully.
 
-### Name:Ashok Kumar Preetham Kumar
-### Roll No:212224040032
+
